@@ -5,15 +5,9 @@
 <img src="https://media.tenor.com/5miqL4qPOGgAAAAi/school-book.gif" title="hello" width="135" height="143" align="right" alt="Hello, there!">
 </a>
 
-
-
-
-
-
 My name is Luís, and I'm a full-stack web developer student from Canela, Rio Grande do Sul. My journey in web development began at [OneBitCode](https://www.onebitcode.com/onebitcode/).
 
 ### Here are some of the languages learned
-
 
 In the front-end
 
